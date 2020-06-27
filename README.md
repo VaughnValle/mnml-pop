@@ -1,4 +1,4 @@
-# MNML Conky
+# MNML Pop!
 ![Preview](https://github.com/VaughnValle/demo/blob/master/c.png)
 
 ## Description
