@@ -1,5 +1,5 @@
 # MNML Conky
-![Preview](https://github.com/VaughnValle/demo/blob/master/preview.png)
+![Preview](https://github.com/VaughnValle/demo/blob/master/c.png)
 
 ## Description
 A clean and simple [Conky](https://github.com/brndnmtthws/conky) theme derived from [Conky Vision](https://github.com/zagortenay333/conky-Vision)
